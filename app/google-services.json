@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453417638651",
+    "firebase_url": "https://redblogs-85484.firebaseio.com",
+    "project_id": "redblogs-85484",
+    "storage_bucket": "redblogs-85484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453417638651:android:6f6fbdcb39ced42477ee5e",
+        "android_client_info": {
+          "package_name": "com.codewithash.redblogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453417638651-7vg0fmjd5iq0shj6f09b80rjua3h6ubc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithash.redblogs",
+            "certificate_hash": "b66bde9cdf370b44d095fe5837c6ba3df6d279b8"
+          }
+        },
+        {
+          "client_id": "453417638651-bcgdbcqi6ndf7c1qs8l1ohf2lrt4r3mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1YeRXO3sBVNQtAsSE3qWC3jr3W7afpk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453417638651-bcgdbcqi6ndf7c1qs8l1ohf2lrt4r3mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
