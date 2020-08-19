@@ -1,4 +1,4 @@
-# RedBlogs--An-android-app-for-blogging
+# RedBlogs
 # This is a blogging app . Here u can also create a blog by speaking and listen to a blog.
 # Technology - Android(Java) and Firebase
 
